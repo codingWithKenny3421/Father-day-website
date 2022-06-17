@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Father-day-website/static/css/main.a1b43775.css",
-    "main.js": "/Father-day-website/static/js/main.1071bd56.js",
+    "main.css": "/Father-day-website/static/css/main.948b95c8.css",
+    "main.js": "/Father-day-website/static/js/main.63d22f66.js",
     "static/media/pic3.png": "/Father-day-website/static/media/pic3.d15c8992e05f0f34ce8e.png",
     "static/media/pic5.png": "/Father-day-website/static/media/pic5.63fa568c90dc1d2bad97.png",
     "static/media/pic4.png": "/Father-day-website/static/media/pic4.b8a1a6912112f09b4864.png",
@@ -13,11 +13,11 @@
     "static/media/pic2.png": "/Father-day-website/static/media/pic2.1fea79b49fd19d0bea1b.png",
     "static/media/gift1.png": "/Father-day-website/static/media/gift1.f2d5c9c0b9ad5e2f8e91.png",
     "index.html": "/Father-day-website/index.html",
-    "main.a1b43775.css.map": "/Father-day-website/static/css/main.a1b43775.css.map",
-    "main.1071bd56.js.map": "/Father-day-website/static/js/main.1071bd56.js.map"
+    "main.948b95c8.css.map": "/Father-day-website/static/css/main.948b95c8.css.map",
+    "main.63d22f66.js.map": "/Father-day-website/static/js/main.63d22f66.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1b43775.css",
-    "static/js/main.1071bd56.js"
+    "static/css/main.948b95c8.css",
+    "static/js/main.63d22f66.js"
   ]
 }
